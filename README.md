@@ -1,9 +1,10 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Remote APIs (L33)
 
-### Author: Student/Group Name
+### Author: Heather Cherewaty
+#### Collaborated with:  Becca Lee
 
 ### Links and Resources
 * [repo](https://github.com/hcherewaty/33-remote-apis)
