@@ -1,42 +1,31 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Remote APIs (L33)
 
-### Author: Student/Group Name
+### Author: Heather Cherewaty
+#### Collaborated with:  Becca Lee
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/hcherewaty/33-remote-apis)
+* [code sandbox](https://codesandbox.io/s/yp8lv05x)
 
 ### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
 
-###### `bar(array) -> array`
-Usage Notes or examples
+### Modules
+#### `index.js` for code sandbox
+##### Exported Values and Methods
+* Connection to sandbox app upon visiting link established in Links and Resources.
+* Content is rendered onto index.html by way of import of app.js onto index.js.
+* Components: `App`, `Detailer`, `Lister`, and `Wrapper` defined in components directory.
+* Middleware `thunk` imported as a dependency.
+* Redux store, actions, and reducers defined in store directory.
+* Styling defined in `stylesheets` directory.
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* The react apps will start and load once the sandbox link is visited.
 
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
